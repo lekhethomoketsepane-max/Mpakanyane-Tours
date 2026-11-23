@@ -1,6 +1,6 @@
 Mpakanyane Tours — Lesotho Tourism Website
 
-Mpakanyane Tours (branded under the Klein logo) is a responsive, multi-page tourism web application showcasing Lesotho's destinations, cultural heritage, and travel experiences. Developed for Web Design (BIWD2110) at Limkokwing University of Creative Technology.
+Mpakanyane Tours (branded under the Klein logo) is a responsive, multi-page tourism web application showcasing Lesotho's destinations, cultural heritage, and travel experiences. Developed for Web Design at Limkokwing University of Creative Technology.
 
 Live Demo & Repository
 
@@ -106,4 +106,4 @@ Name: Tax
 
 Program: BSc in Information Technology — Limkokwing University of Creative Technology (Lesotho)
 
-Course: Web Design (BIWD2110)
+Course: Web Design
